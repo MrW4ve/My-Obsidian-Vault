@@ -1,0 +1,31 @@
+{
+  "pluginList": [
+    "lstrzepek/obsidian-yt-transcript",
+    "jemstelos/obsidian-media-notes",
+    "SkepticMystic/breadcrumbs"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "lstrzepek/obsidian-yt-transcript",
+      "version": "latest"
+    },
+    {
+      "repo": "jemstelos/obsidian-media-notes",
+      "version": "latest"
+    },
+    {
+      "repo": "SkepticMystic/breadcrumbs",
+      "version": "latest"
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "personalAccessToken": ""
+}

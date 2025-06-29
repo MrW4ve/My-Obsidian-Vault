@@ -1,0 +1,8 @@
+{
+  "templateHeading": "#### ROLLING GOALS",
+  "deleteOnComplete": false,
+  "removeEmptyTodos": true,
+  "rolloverChildren": false,
+  "rolloverOnFileCreate": true,
+  "doneStatusMarkers": "xX-"
+}

@@ -1,0 +1,36 @@
+{
+  "file-explorer:new-file": [],
+  "zk-prefixer": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "tag-links:open-tag-as-link": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "`"
+    }
+  ],
+  "media-notes:insert-media-timestamp": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "V"
+    }
+  ]
+}

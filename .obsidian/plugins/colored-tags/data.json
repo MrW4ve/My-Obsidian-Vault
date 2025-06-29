@@ -1,0 +1,25 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "resource": 1,
+    "obsidian": 2,
+    "Daily": 3,
+    "note": 4,
+    "Video": 5,
+    "topic": 6,
+    "Vide": 7,
+    "excalidraw": 8,
+    "archive": 9,
+    "project": 10
+  },
+  "_version": 3
+}

@@ -1,0 +1,43 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "03 - Notes",
+      "tag": "#note",
+      "pattern": ""
+    },
+    {
+      "folder": "06 - Archives",
+      "tag": "#archive",
+      "pattern": ""
+    },
+    {
+      "folder": "02 Topics",
+      "tag": "#topic",
+      "pattern": ""
+    },
+    {
+      "folder": "04 - Resources",
+      "tag": "#Video",
+      "pattern": ""
+    },
+    {
+      "folder": "04 - Resources",
+      "tag": "#resource",
+      "pattern": ""
+    },
+    {
+      "folder": "01 Projects",
+      "tag": "#project",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": [
+    {
+      "folder": ""
+    }
+  ]
+}
